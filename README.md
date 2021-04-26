@@ -1,5 +1,7 @@
 # Project
 
+STILL WORKING ON PROJECT
+
 Project name: ufcfightnight
 
 Using R Studio
@@ -8,7 +10,14 @@ Using R Studio
 
 Twitter API
 
-### How to use
+### Description
+
+This code will allow you to pull information from the key words "ufcfightnight" from twitter. This will show how people on the platform 
+are engaging with the event and what commom themes are being discussed. I will be incorporating the ggplot package 
+that will create visual data that will show a certain topic being compared to other time periods. I believe you can 
+only go back and dig up data from a max point of 6-7 days before. 
+
+#### How to use
 
 # Create function
 
