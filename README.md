@@ -1,6 +1,6 @@
 # Project
 
-STILL WORKING ON PROJECT
+A package that uses Twitch API and creates a scatter plot using ggplot
 
 Project name: ufcfightnight
 
