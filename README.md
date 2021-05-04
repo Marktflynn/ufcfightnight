@@ -35,3 +35,8 @@ ufcfightnight = function(x){
   
   data_minimal = data_arranged %>% select(screen_name, text, retweet_count, favorite_count)
 }
+
+##### What to expect/how to interpret
+
+The code will produce a scatter plot that compares favorites versus retweets linked with the keyword "ufcfightnight".
+It will show results pulled from 100 tweets.
