@@ -15,6 +15,8 @@ Make sure you are logged into a Twitter account and connect to the API
 
 https://developer.twitter.com/en/docs/twitter-api
 
+Next you'll create a function: ufcfightnight = function(x)
+
 After that, you'll search tweets involving "ufcfightnight" and arrange the data by retweet count and favorite count. 
 
 #### What to expect/how to interpret
