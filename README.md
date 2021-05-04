@@ -25,7 +25,6 @@ Once you're ready to graph your data, use ggplot and create a scatterplot.
 
 Example: 
 
-
 p <- ggplot(ufc_data) +
     aes(x = favorite_count, y = retweet_count) +
     geom_point(shape = "circle", size = 2.1, colour = "#112446") +
@@ -38,7 +37,6 @@ p <- ggplot(ufc_data) +
     theme_bw()
 
   print(p)
-
 
 The code will produce a scatter plot that compares favorites versus retweets linked with the key term "ufcfightnight".
 
