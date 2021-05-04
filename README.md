@@ -1,14 +1,6 @@
-# Project
+# Project ufcfightnight
 
-A package that uses Twitch API and creates a scatter plot using ggplot
-
-Project name: ufcfightnight
-
-Using R Studio
-
-## API Reference
-
-Twitter API
+A package that uses Twitter API and creates a scatter plot using ggplot
 
 ### Description
 
